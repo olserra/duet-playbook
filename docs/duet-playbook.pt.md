@@ -47,6 +47,6 @@ O princípio é simples: **delegue o trabalho repetitivo sem terceirizar o seu j
 
 ## 6. DUET e comunidade
 
-O [protocolo DUET](https://duetprotocol.surge.sh) apresenta doze princípios sobre a parceria entre humanos e IA. O playbook é a parte prática para começar hoje; os packs são implementações reutilizáveis. A segunda edição do ebook DUET está a caminho. Ainda sem data nem link; o livro não é requisito para usar o playbook.
+O [protocolo DUET](https://duetprotocol.surge.sh) apresenta doze princípios sobre a parceria entre humanos e IA. O playbook é a parte prática para começar hoje; os packs são implementações reutilizáveis. O ebook DUET está a caminho. Ainda sem data nem link; o livro não é requisito para usar o playbook.
 
 Quer contribuir? Leia [CONTRIBUTING.md](../CONTRIBUTING.md), proponha um exemplo genérico, melhore uma tradução, ou abra uma issue com uma sugestão. Não inclua senhas, tokens, mensagens privadas, nomes de familiares nem dados de terceiros. Se um problema se resolve com uma alteração de produto, não vamos prometer um pack permanente como substituto.
