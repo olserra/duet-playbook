@@ -7,12 +7,12 @@
   <a href="#-os-packs"><img alt="Packs" src="https://img.shields.io/badge/packs-1%20dispon%C3%ADvel%20%C2%B7%201%20em%20constru%C3%A7%C3%A3o-E07A5F?style=flat-square"></a>
   <img alt="Línguas" src="https://img.shields.io/badge/l%C3%ADnguas-PT%20%C2%B7%20EN-6B6258?style=flat-square">
   <a href="LICENSE"><img alt="Licença" src="https://img.shields.io/github/license/olserra/assistant-packs?style=flat-square&color=6B6258"></a>
-  <a href="https://github.com/olserra/assistant-packs/stargazers"><img alt="Estrelas no GitHub" src="https://img.shields.io/github/stars/olserra/assistant-packs?style=flat-square&color=0F5E5A"></a>
+  <a href="https://github.com/olserra/duet-playbook/stargazers"><img alt="Estrelas no GitHub" src="https://img.shields.io/github/stars/olserra/assistant-packs?style=flat-square&color=0F5E5A"></a>
   <a href="CONTRIBUTING.md#português"><img alt="PRs bem-vindos" src="https://img.shields.io/badge/PRs-bem--vindos-0F5E5A?style=flat-square"></a>
   <br>
-  <a href="https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img alt="Boas primeiras issues" src="https://img.shields.io/github/issues/olserra/assistant-packs/good%20first%20issue?style=flat-square&label=boas%20primeiras%20issues&color=E07A5F"></a>
+  <a href="https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img alt="Boas primeiras issues" src="https://img.shields.io/github/issues/olserra/assistant-packs/good%20first%20issue?style=flat-square&label=boas%20primeiras%20issues&color=E07A5F"></a>
   <a href="#-contribuidores"><img alt="Contribuidores" src="https://img.shields.io/badge/contribuidores-1-E07A5F?style=flat-square"></a>
-  <a href="https://github.com/olserra/assistant-packs/discussions"><img alt="Discussions" src="https://img.shields.io/badge/discussions-participa-0F5E5A?style=flat-square"></a>
+  <a href="https://github.com/olserra/duet-playbook/discussions"><img alt="Discussions" src="https://img.shields.io/badge/discussions-participa-0F5E5A?style=flat-square"></a>
   <a href="CODE_OF_CONDUCT.pt.md"><img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-2.1-6B6258?style=flat-square"></a>
   <a href="CHANGELOG.md"><img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.1.0-6B6258?style=flat-square"></a>
 </p>
@@ -22,15 +22,17 @@
   <a href="#-instalar-em-60-segundos">Instalar</a> ·
   <a href="#-os-packs">Packs</a> ·
   <a href="#-roadmap">Roadmap</a> ·
-  <a href="https://github.com/olserra/assistant-packs/issues/new?template=pack-request.yml">Pedir um pack</a> ·
+  <a href="https://github.com/olserra/duet-playbook/issues/new?template=pack-request.yml">Pedir um pack</a> ·
   <a href="CONTRIBUTING.md#português">Contribuir</a> ·
   <a href="docs/pack-authoring.pt.md">Guias</a> ·
-  <a href="https://github.com/olserra/assistant-packs/discussions">Discussions</a>
+  <a href="https://github.com/olserra/duet-playbook/discussions">Discussions</a>
 </p>
 
-<p align="center"><sub>Criado por <a href="https://github.com/olserra">@olserra</a> · construído em aberto por quem o usa</sub></p>
+<p align="center"><sub>Projeto da comunidade · construído em aberto por quem o usa</sub></p>
 
 ---
+
+> **Chegou agora?** Leia o [DUET Playbook](docs/duet-playbook.pt.md): uma primeira conversa, cinco passos para configurar e o que verificar antes de automatizar. [English](docs/duet-playbook.md) · [Protocolo DUET](https://duetprotocol.surge.sh). 
 
 **O Instinct fica muito melhor depois de configurado.** O problema: chegar a um resumo matinal que ajuda mesmo, a um plano da noite para amanhã, a um lembrete por dia que não aprendes a ignorar, a vigilantes que te avisam antes de chegares atrasado - isso leva dias de ida e volta.
 
@@ -57,7 +59,7 @@
 
 ```text
 Instala o pack "Assistente Configurado" do Assistant Packs.
-Instruções: https://raw.githubusercontent.com/olserra/assistant-packs/main/packs/configured-assistant/skills/configured-assistant-pt/SKILL.md
+Instruções: https://raw.githubusercontent.com/olserra/duet-playbook/main/packs/configured-assistant/skills/configured-assistant-pt/SKILL.md
 Os módulos estão na pasta references/ ao lado.
 Faz a entrevista de configuração comigo, agenda só as rotinas que eu aprovar
 e mostra-me um exemplo do resumo da noite de amanhã antes do primeiro sair.
@@ -67,7 +69,7 @@ e mostra-me um exemplo do resumo da noite de amanhã antes do primeiro sair.
 
 **3. Vê o exemplo e deixa correr.** Muda o que quiseres mais tarde, por palavras tuas: *"passa o resumo matinal para as 6:30"*, *"tira os mercados"*, *"pausa tudo esta semana"*.
 
-**4. 👍 na [issue #1](https://github.com/olserra/assistant-packs/issues/1)** se funcionar para ti. Esse polegar é o contador público de instalações.
+**4. 👍 na [issue #1](https://github.com/olserra/duet-playbook/issues/1)** se funcionar para ti. Esse polegar é o contador público de instalações.
 
 > [!TIP]
 > Só queres uma parte? Envia *"Instala só o módulo do resumo matinal do pack Assistente Configurado"* com o mesmo link. Mais opções no [INSTALL.md](packs/configured-assistant/INSTALL.md) do pack.
@@ -77,12 +79,12 @@ e mostra-me um exemplo do resumo da noite de amanhã antes do primeiro sair.
 | # | Pack | O que o teu Instinct faz | Línguas | Estado |
 |:-:|------|--------------------------|:-------:|:------:|
 | 1 | **[O Assistente Configurado](packs/configured-assistant/README.pt.md)** | Resumo matinal · resumo da noite para amanhã · um lembrete de coaching por dia · pontos e placar ao domingo · vigilantes de trânsito e respostas · técnica de hábitos da semana | 🇵🇹 🇬🇧 | ✅ **Disponível · grátis** |
-| 2 | **[Chefe da Caixa de Entrada](packs/inbox-zero-chief/README.pt.md)** | Regras de triagem, rascunhos no teu tom, limpeza semanal de subscrições | 🇬🇧 | 🛠️ **Em construção · [procura ajuda](https://github.com/olserra/assistant-packs/issues/2)** |
+| 2 | **[Chefe da Caixa de Entrada](packs/inbox-zero-chief/README.pt.md)** | Regras de triagem, rascunhos no teu tom, limpeza semanal de subscrições | 🇬🇧 | 🛠️ **Em construção · [procura ajuda](https://github.com/olserra/duet-playbook/issues/2)** |
 | 3 | **[De Olho no Mercado](packs/market-watch/README.pt.md)** | Resumo de mercados antes da abertura (índices, moedas, cripto, notícias) · alertas de preço e variação que defines · balanço semanal. Factos, nunca conselhos | 🇵🇹 🇬🇧 | ✅ **Disponível · grátis** |
-| 4 | Logística Familiar | Calendários partilhados, prazos da escola, recolhas, aniversários e presentes | - | 🗳️ [Votar](https://github.com/olserra/assistant-packs/issues/3) |
-| 5 | Copiloto de Procura de Emprego | Pipeline de candidaturas, briefings de entrevista, lembretes de follow-up | - | 🗳️ [Votar](https://github.com/olserra/assistant-packs/issues/4) |
+| 4 | Logística Familiar | Calendários partilhados, prazos da escola, recolhas, aniversários e presentes | - | 🗳️ [Votar](https://github.com/olserra/duet-playbook/issues/3) |
+| 5 | Copiloto de Procura de Emprego | Pipeline de candidaturas, briefings de entrevista, lembretes de follow-up | - | 🗳️ [Votar](https://github.com/olserra/duet-playbook/issues/4) |
 
-Falta o pack de que precisas? **[Pede um pack](https://github.com/olserra/assistant-packs/issues/new?template=pack-request.yml)** e dá 👍 aos [pedidos que mais queres](https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc). O pedido mais votado é o próximo pack a ser construído.
+Falta o pack de que precisas? **[Pede um pack](https://github.com/olserra/duet-playbook/issues/new?template=pack-request.yml)** e dá 👍 aos [pedidos que mais queres](https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc). O pedido mais votado é o próximo pack a ser construído.
 
 ## 🧭 Como os packs se comportam
 
@@ -102,19 +104,19 @@ Falta o pack de que precisas? **[Pede um pack](https://github.com/olserra/assist
 - [x] Contador de instalações ao vivo (👍 na issue #1)
 - [x] Guias para contribuidores, modelos e boas primeiras issues
 - [x] Pack n.º 3 · De Olho no Mercado (PT + EN)
-- [ ] Pack n.º 2 · Chefe da Caixa de Entrada, construído pela comunidade ([procura ajuda](https://github.com/olserra/assistant-packs/issues/2))
-- [ ] Pack n.º 4 · escolhido pelo [pedido](https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc) mais votado
+- [ ] Pack n.º 2 · Chefe da Caixa de Entrada, construído pela comunidade ([procura ajuda](https://github.com/olserra/duet-playbook/issues/2))
+- [ ] Pack n.º 4 · escolhido pelo [pedido](https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc) mais votado
 - [ ] Páginas de pack com dicas da comunidade ("como afinei o meu resumo matinal")
 - [ ] Distintivos de contribuidor: primeira correção, primeiro módulo, autor de pack
-- [ ] Mais línguas (ES, FR) - [ajuda a traduzir](https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation)
+- [ ] Mais línguas (ES, FR) - [ajuda a traduzir](https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation)
 
 ## 🤝 Constrói connosco
 
 Este projeto é de quem o usa. Decidimos juntos o que se constrói, e cada contribuição fica creditada.
 
 - **🌱 [A tua primeira contribuição em 15 minutos](CONTRIBUTING.md#-a-tua-primeira-contribuição-em-15-minutos)** - sem programar, tudo no browser.
-- **🗳️ [Vota no quadro](https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc)** - os 👍 decidem o que se constrói a seguir. **[Pede um pack](https://github.com/olserra/assistant-packs/issues/new?template=pack-request.yml)** se o teu não existe.
-- **💬 [Discussions](https://github.com/olserra/assistant-packs/discussions)** - pergunta em Q&A, partilha ideias, mostra como ajustaste um pack em Show & Tell.
+- **🗳️ [Vota no quadro](https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3Apack-request+sort%3Areactions-%2B1-desc)** - os 👍 decidem o que se constrói a seguir. **[Pede um pack](https://github.com/olserra/duet-playbook/issues/new?template=pack-request.yml)** se o teu não existe.
+- **💬 [Discussions](https://github.com/olserra/duet-playbook/discussions)** - pergunta em Q&A, partilha ideias, mostra como ajustaste um pack em Show & Tell.
 - **✍️ [Guia para criar packs](docs/pack-authoring.pt.md)** - como desenhamos packs, as regras de privacidade e os critérios de qualidade. Vais traduzir? Vê o [guia de tradução](docs/translating.pt.md).
 - **⭐ Dá uma estrela** para acompanhar os packs novos.
 
@@ -122,13 +124,13 @@ Este projeto é de quem o usa. Decidimos juntos o que se constrói, e cada contr
 
 | Tarefa | Tempo | Precisas de |
 |--------|:-----:|-------------|
-| [Traduzir o módulo do resumo da manhã para espanhol](https://github.com/olserra/assistant-packs/issues/5) | ~30 min | Espanhol |
-| [Traduzir o módulo do resumo da noite para francês](https://github.com/olserra/assistant-packs/issues/6) | ~30 min | Francês |
-| [Criar uma variante de fim de semana do resumo da manhã](https://github.com/olserra/assistant-packs/issues/7) | ~45 min | Escrita |
-| [Criar a pré-visualização do módulo de vigilantes](https://github.com/olserra/assistant-packs/issues/8) | ~45 min | Editar texto em SVG |
-| [Pack n.º 2: escrever o módulo de limpeza semanal de subscrições](https://github.com/olserra/assistant-packs/issues/9) | ~45 min | Escrita |
+| [Traduzir o módulo do resumo da manhã para espanhol](https://github.com/olserra/duet-playbook/issues/5) | ~30 min | Espanhol |
+| [Traduzir o módulo do resumo da noite para francês](https://github.com/olserra/duet-playbook/issues/6) | ~30 min | Francês |
+| [Criar uma variante de fim de semana do resumo da manhã](https://github.com/olserra/duet-playbook/issues/7) | ~45 min | Escrita |
+| [Criar a pré-visualização do módulo de vigilantes](https://github.com/olserra/duet-playbook/issues/8) | ~45 min | Editar texto em SVG |
+| [Pack n.º 2: escrever o módulo de limpeza semanal de subscrições](https://github.com/olserra/duet-playbook/issues/9) | ~45 min | Escrita |
 
-<sub>As issues estão escritas em inglês, com um resumo em português.</sub> [Todas as boas primeiras issues →](https://github.com/olserra/assistant-packs/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+<sub>As issues estão escritas em inglês, com um resumo em português.</sub> [Todas as boas primeiras issues →](https://github.com/olserra/duet-playbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ### 🙌 Contribuidores
 
@@ -149,7 +151,7 @@ Obrigado a todos os que constroem o Assistant Packs ([legenda dos emojis](https:
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<a href="https://github.com/olserra/assistant-packs/graphs/contributors"><img src="https://contrib.rocks/image?repo=olserra/assistant-packs" alt="Avatares dos contribuidores"></a>
+<a href="https://github.com/olserra/duet-playbook/graphs/contributors"><img src="https://contrib.rocks/image?repo=olserra/assistant-packs" alt="Avatares dos contribuidores"></a>
 
 ## ❓ Perguntas frequentes
 
