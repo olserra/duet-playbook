@@ -44,6 +44,6 @@ For current claims, check sources. Before a message goes out, review its text, r
 
 ## 6. DUET and the community
 
-The [DUET protocol](https://duetprotocol.surge.sh) offers twelve principles for human-AI partnership. The playbook turns those ideas into small tasks to try today; packs are reusable examples. A second edition of the DUET ebook is on its way. No release date or link yet; the book is not required to use the playbook.
+The [DUET protocol](https://duetprotocol.surge.sh) offers twelve principles for human-AI partnership. The playbook turns those ideas into small tasks to try today; packs are reusable examples. The DUET ebook is on its way. No release date or link yet; the book is not required to use the playbook.
 
 Contribute through [the guide](../CONTRIBUTING.md): add a generic example, improve a translation, or suggest a pack. Never post passwords, tokens, private messages, family names, or third-party data. If a product update would solve a problem outright, don't promise a permanent pack as its workaround.
